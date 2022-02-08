@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
 
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQFAr2PqLXwQtw/profile-displaybackgroundimage-shrink_350_1400/0/1613761676478?e=1648684800&v=beta&t=W_sjdV6CjOSHbZQd4V3Lb493Oh-4Il2ivSNgigO7cR0" alt="Home Cover">
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQHHypvNcvIZLA/profile-displaybackgroundimage-shrink_350_1400/0/1644296465113?e=1649894400&v=beta&t=3ECyFgFQjQiDch6gjz0fy2A-Alb0o-Kjrt6IDXDAfks" alt="Home Cover">
+
 <hr>
 <h1 align="center"> Hello world!, I'm Angelus Taylor 👋 </h1>
 <h3 align="center">🚀 .Net devloper 🚀</h3>
