@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 ## Some Statistics About Me
 ![Angelus's github stats](https://github-readme-stats.vercel.app/api?username=AngelusTaylorDev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
-⭐️ From [AngelusTaylorDev](https://github.com/AngelusTaylorDev)
+⭐️ Portfolio Here: [AngelusTaylorDev](https://www.angelustdev.com/)
