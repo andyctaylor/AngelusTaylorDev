@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQHAtK8aqaRUUw/profile-displaybackgroundimage-shrink_350_1400/0/1648822060835?e=1654128000&v=beta&t=rZWlIbuX7De_znuXxipOAT1xngwukohpxLQqjOOrXu8" height="250" alt="Home Cover">
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQEvA7i4vrofIg/profile-displaybackgroundimage-shrink_350_1400/0/1652060020670?e=1658966400&v=beta&t=w9DlcrnfqGZIf6vG-hZWyl7lqPOs2sXgH4BB3bJYmhk" height="250" alt="Home Cover">
 
 <hr>
 <h1 align="center"> Hello world!, I'm Angelus Taylor 👋 </h1>
