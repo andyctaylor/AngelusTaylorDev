@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQEvA7i4vrofIg/profile-displaybackgroundimage-shrink_350_1400/0/1652060020670?e=1658966400&v=beta&t=w9DlcrnfqGZIf6vG-hZWyl7lqPOs2sXgH4BB3bJYmhk" height="250" alt="Home Cover">
 
 <hr>
-<h1 align="center"> Hello world!, I'm Angelus Taylor 👋 </h1>
-<h3 align="center">🚀 .Net devloper 🚀</h3>
+<h1 align="center"> Hello world!, I'm Andy Taylor 👋 </h1>
+<h3 align="center">🚀 Systems Administrator 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="abhinavdubeyad9" /> </p>
 
-- 🔭 I’m currently working on my <a href="https://github.com/AngelusTaylorDev/AngelusTBlog">Angelus T Blog app:</a>
+- 🔭 I’m currently working on my <a href="https://andyct.net/">Andy T Web CV</a>
 - 🌱 I’m currently learning Data Analytics & Business 
 - 👯 I’m looking to collaborate on Data and IT projects
 - 💬 I am available for hire or consultation.
-- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/andytaylor3000/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:andysainttaylor@gmail.com)
+- 📫 How to reach me:[![Linkedin Badge](https://www.linkedin.com/in/andytaylor3000/) 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:andy@andyct.net)
 
 - ⚡ Fun fact: I Love To Code <i class="fas fa-code" style="width: 10px;"></i>
 
