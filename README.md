@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Analytics & Business 
 - 👯 I’m looking to collaborate on Data and IT projects
 - 💬 I am available for hire or consultation.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/andytaylor3000)">Linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/andytaylor3000">Linkedin</a>
 
 - ⚡ Fun fact: I Love To Code <i class="fas fa-code" style="width: 10px;"></i>
 
