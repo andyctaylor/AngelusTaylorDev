@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="abhinavdubeyad9" /> </p>
 
 - 🔭 I’m currently working on my <a href="https://github.com/AngelusTaylorDev/AngelusTBlog">Angelus T Blog app:</a>
-- 🌱 I’m currently learning C# & Asp.Net 
-- 👯 I’m looking to collaborate on Asp.Net projects
+- 🌱 I’m currently learning Data Analytics & Business 
+- 👯 I’m looking to collaborate on Data and IT projects
 - 💬 I am available for hire or consultation.
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/andytaylor3000/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:andysainttaylor@gmail.com)
